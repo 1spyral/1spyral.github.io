@@ -1,2 +1,2 @@
 # 1spyral.github.io
-My GitHub Page
+1spyral.github.io
